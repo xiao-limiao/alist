@@ -131,8 +131,7 @@ Thanks goes to these wonderful people:
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请通过[邮件](mailto:i@nn.ci)与我联系，会及时处理。
+- 如有侵权，请通过[邮件]与我联系，会及时处理。
 
 ---
 
-> [@博客](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@Telegram群](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
