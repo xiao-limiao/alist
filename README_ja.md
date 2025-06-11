@@ -133,8 +133,7 @@ https://alist.nn.ci/guide/sponsor.html
 - このプログラムは、公式インターフェースの動作を破壊することなく、公式 sdk/インターフェースを呼び出すことで実装されています;
 - このプログラムは、302リダイレクト/トラフィック転送のみを行い、いかなるユーザーデータも傍受、保存、改ざんしません;
 - このプログラムを使用する前に、アカウントの禁止、ダウンロード速度の制限など、対応するリスクを理解し、負担する必要があります;
-- もし侵害があれば、[メール](mailto:i@nn.ci)で私に連絡してください。
+- もし侵害があれば、[メール]()で私に連絡してください。
 
 ---
 
-> [@Blog](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@TelegramGroup](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
